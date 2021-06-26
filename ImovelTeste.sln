@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImovelTeste", "ImovelTeste.csproj", "{EEEB661D-2837-4C51-B446-18BD65556A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEB661D-2837-4C51-B446-18BD65556A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEB661D-2837-4C51-B446-18BD65556A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEB661D-2837-4C51-B446-18BD65556A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEB661D-2837-4C51-B446-18BD65556A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B901CBC3-F625-4FD6-9776-46510329868E}
+	EndGlobalSection
+EndGlobal
